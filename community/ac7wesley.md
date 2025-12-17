@@ -40,12 +40,10 @@
 
 ###🐱‍💻 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ac7wesley&theme=react)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ac7wesley&theme=react&utcOffset=3)
 <div>
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ac7wesley&theme=tokyonight">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ac7wesley&show_icons=true&theme=dracula">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ac7wesley&theme=tokyonight">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ac7wesley&layout=compact&theme=tokyonight"> 
+
 </div>
 
 #
